@@ -1,5 +1,5 @@
 {
-  "name": "node-js-express-login-example",
+  "name": "js-express-login-example",
   "version": "1.0.0",
   "description": "Node.js Express Login and Registration example",
   "main": "server.js",
